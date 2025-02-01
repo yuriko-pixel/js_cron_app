@@ -1,5 +1,5 @@
 import express from "express";
-import { cron } from './cron.js';
+import { cron } from './api/cron.js';
 
 const app = express();
 
